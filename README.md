@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @os14-you an AI student in KFS
+- 👀 I’m interested in AI and CyberSecurity tracks
+- 🌱 I’m currently learning AI 
+- 📫 How to reach me ...
+  - os14you.edu@gmail.com  `email`
