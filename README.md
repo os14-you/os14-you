@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structure , Algorithms , OOP and ML Basics**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/os14you](https://linktr.ee/os14you)
+- 👨‍💻 All of my projects are available at [My-Repositories]([https://linktr.ee/os14you](https://github.com/os14-you?tab=repositories))
 
 - 📫 How to reach me **os14you.manage@gmail.com**
 
