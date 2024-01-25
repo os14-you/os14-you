@@ -3,8 +3,9 @@
   𝐇𝐞𝐥𝐥𝐨, I'm Osama!
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
-<div class="typing-svg-container" style="text-align: center;">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&pause=2000&color=39F750&center=true&vCenter=true&multiline=true&random=false&width=600&height=70&lines=Welcome+to+my+GitHub+profile;I'm+a+passionate+AI+student++in+KFS++university" alt="Typing SVG" /></a>
+<p align="center">
+<a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&pause=2000&color=39F750&center=true&vCenter=true&multiline=true&random=false&width=600&height=70&lines=Welcome+to+my+GitHub+profile;I'm+a+passionate+AI+student++in+KFS++university" alt="Typing SVG" /></a>
+</p>
 <br/>
 <br/>
 
@@ -15,7 +16,7 @@
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Machine Learning 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
 - 👨‍💻 All of my projects are available at [My-Repositories](https://github.com/os14-you?tab=repositories)
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://t.me/os14you) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
-- - 📫 How to reach me **os14you.manage@gmail.com**
+- 📫 How to reach me **os14you.manage@gmail.com**
 - 👀 When I'm not at the keyboard, I like *video game*, *staying with my family* ,*chatting and hanging out with friends* .
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Git the facts ,or the facts *wil Git you***
 
