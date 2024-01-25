@@ -26,8 +26,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=os14-you&label=Profile%20views&color=0e75b6&style=flat" alt="os14-you" /> •   
   <a href="https://user-badge.committers.top/egypt/os14-you"><img src="https://user-badge.committers.top/egypt/os14-you.svg"/></a> •
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/os14-you
-"/> •
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/os14-you"/> •
   <img src="https://img.shields.io/github/stars/os14-you?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> 
 </p>
 
@@ -44,11 +43,6 @@
 
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
-
-<br/>
-<br/>
-
-
 
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"/></code>
@@ -72,8 +66,8 @@
 <br/>
 
 <p align="center">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=os14-you&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="left" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=os14-you&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=os14-you&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=os14-you&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 <br/>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=os14-you&theme=react-dark&hide_border=true&area=true)
