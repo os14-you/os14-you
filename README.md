@@ -4,7 +4,7 @@
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 <p align="center">
-<a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&pause=2000&color=39F750&center=true&vCenter=true&multiline=true&random=false&width=600&height=70&lines=Welcome+to+my+GitHub+profile;I'm+a+passionate+AI+student++in+KFS++university" alt="Typing SVG" /></a>
+<a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=2000&color=39F750&center=true&vCenter=true&multiline=true&random=false&width=800&height=100&lines=Welcome+to+my+GitHub+profile;I'm+a+passionate+AI+student++in+KFS++university" alt="Typing SVG" /></a>
 </p>
 <br/>
 <br/>
