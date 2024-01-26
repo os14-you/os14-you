@@ -42,8 +42,9 @@
 
 
 
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
+<h2 align="center">⚒️ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂-FRAMEWORKS-𝚃𝙾𝙾𝙻𝚂 ⚒️</h2>
 
+<div align="center">
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"/></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/></code>
@@ -58,25 +59,25 @@
 <code><img height="40" width="40" src="https://img.icons8.com/?size=160&id=8rKdRqZFLurS&format=png"/></code>
 <code><img height="40" width="40" src="https://img.icons8.com/?size=96&id=DakakaPez2uy&format=png"/></code>
 <code><img height="40" width="40" src="https://img.icons8.com/?size=96&id=9OGIyU8hrxW5&format=png"/></code>
+</div>
 
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
+<br/>
+<h2 align="center">📈 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 </h2>
+ 
 <br/>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=os14-you&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=os14-you&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=os14-you&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="right" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=os14-you&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p>
 <br/>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=os14-you&theme=react-dark&hide_border=true&area=true)
 
 <br/>
-</p>
 
 
-<h1>
+<h2 align ="center">
   Connect With Me
   <img src="GIF/Handshake.gif" height="25px"/>
 </h1>
