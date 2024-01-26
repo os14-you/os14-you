@@ -78,8 +78,7 @@
 
 
 <h2 align ="center">
-  Connect With Me
-  <img src="GIF/Handshake.gif" height="25px"/>
+  📠 Connect With Me
 </h1>
 
 <p align="center">
