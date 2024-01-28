@@ -30,8 +30,6 @@
   <img src="https://img.shields.io/github/stars/os14-you?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> 
 </p>
 
-#
-
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=os14-you&column=10&margin-w=10&margin-h=10&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <p align="center">
