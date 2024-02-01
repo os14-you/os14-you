@@ -72,6 +72,10 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=os14-you&theme=react-dark&hide_border=true&area=true)
 
+<h2 align="center">🐍 Contribution Grid Snake </h2>
+
+![snake gif](https://github.com/os14-you/os14-you/blob/output/github-contribution-grid-snake-dark.svg)
+
 <br/>
 
 
