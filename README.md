@@ -14,7 +14,7 @@
 
 
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Machine Learning 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
-- 👨‍💻 All of my projects are available at [My-Repositories](https://github.com/os14-you?tab=repositories)
+- 👨‍💻 All of my projects are available at [My-Repositories](https://github.com/Os14you?tab=repositories)
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://t.me/os14you) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 📫 How to reach me **os14you.manage@gmail.com**
 - 👀 When I'm not at the keyboard, I like *video game*, *staying with my family* ,*chatting and hanging out with friends* .
@@ -24,17 +24,17 @@
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=os14-you&label=Profile%20views&color=0e75b6&style=flat" alt="os14-you" /> •   
-  <a href="https://user-badge.committers.top/egypt/os14-you"><img src="https://user-badge.committers.top/egypt/os14-you.svg"/></a> •
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/os14-you"/> •
-  <img src="https://img.shields.io/github/stars/os14-you?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> 
+  <img src="https://komarev.com/ghpvc/?username=Os14you&label=Profile%20views&color=0e75b6&style=flat" alt="Os14you" /> •   
+  <a href="https://user-badge.committers.top/egypt/Os14you"><img src="https://user-badge.committers.top/egypt/Os14you.svg"/></a> •
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Os14you"/> •
+  <img src="https://img.shields.io/github/stars/Os14you?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> 
 </p>
 
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=os14-you&column=10&margin-w=10&margin-h=10&no-bg=true&no-frame=true&theme=juicyfresh)
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Os14you&column=10&margin-w=10&margin-h=10&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <p align="center">
   <img height="150" width="150" src="WEBP/left.webp"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=os14-you&theme=dark&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Os14you&theme=dark&hide_border=true"/>
   <img height="150" width="150" src="WEBP/right.webp"/>
 </p>
 
@@ -65,12 +65,12 @@
 <br/>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=os14-you&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="right" height="115px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=os14-you&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Os14you&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="right" height="115px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Os14you&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 <br/>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=os14-you&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Os14you&theme=react-dark&hide_border=true&area=true)
 
 <h2 align="center">🐍 Contribution Grid Snake </h2>
 
